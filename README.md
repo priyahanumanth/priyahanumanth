@@ -1,8 +1,7 @@
-[![MasterHead](https://www.tallysaudiarabia.com/uploads/1594479979ffgg.jpg
+[![MasterHead]("https://www.tallysaudiarabia.com/uploads/1594479979ffgg.jpg")
 <h1 align="center">Hi there👋, I am PriyaHanumanth</h1>
 <h3 align="center">A passionate learner,looking for an opportunity to grab knowledge and learn new things which helpful to build my carreer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+(img align="right" alt="Coding" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyahanumanth&label=Profile%20views&color=0e75b6&style=flat" alt="priyahanumanth" /> </p>
 
 - 🔭 I’m currently working on **web Development using django Framework,Machine learning with Jupyter notebook,Advance python skills**
