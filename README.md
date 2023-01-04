@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyahanumanth&label=Profile%20views&color=0e75b6&style=flat" alt="priyahanumanth" /> </p>
 
-- 🔭 I’m currently working on **web Development using django Framework,Machine learning with Jupyter notebook,Advance python skills**
+- 🔭 I’m currently working on
+** .web Development using django Framework
+   .Machine learning Algorithms with Jupyter notebook
+   .Advance python skills
+   .TABLEAU**
 
 - 🌱 I’m currently learning **ML Algorithms,Docker,code enhancement,Django**
 
